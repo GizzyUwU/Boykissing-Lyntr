@@ -1,0 +1,2 @@
+# Boykisser Bot for Lyntr
+To add custom images just add them to images folder (if there is already images there with numbers you have to run node reverse.js first) then run node rename.js then you add your token of account to .env then run node index.js to start bot
